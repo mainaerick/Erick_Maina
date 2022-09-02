@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mainaerick&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<div  width="300px">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mainaerick&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)</div>
 
 - Hi there 👋, I'm Erick maina.
 - I’m interested 👀 in Front-end and Back-end Development in ReactJS and Python. I also love android development in Kotlin and Java.
