@@ -2,4 +2,4 @@
 
 - Hi there 👋, I'm Erick maina.
 - I’m a Fullstack developer in Java, Javascript and Python.
-- I’m currently working 🔭 as a Fullsatck developer and in Tasks Automation using Microsoft Tools at Salix Data.
+- I’m currently working 🔭 as a Software Engineer and RPA Developer at Salix Data.
